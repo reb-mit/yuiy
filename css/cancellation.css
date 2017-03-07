@@ -1,0 +1,88 @@
+header{
+	height: 91px;
+	line-height: 91px;
+	text-align: center;
+	font-size: 38px;
+	color: #333;
+	background: url(../img/gte.png) no-repeat 20px 26px;
+	border-bottom:2px solid #07ca61;
+}
+.nav{
+	height: 72px;
+	background: #f88266;
+	padding: 15px 28px 12px 30px;
+}
+.nav span{
+	font-size: 26px;
+	color: #fff;
+	line-height: 36px;
+	display: inline-block;
+    text-align: center;
+}
+.main-content{
+	height: 132px;
+	text-align: center;
+	padding-top: 52px;
+	border-bottom: 1px solid #dadada;
+}
+.main-content p{
+	font-size: 38px;
+	color: #333;
+	margin-bottom: 20px;
+}
+.main-content span{
+	font-size: 28px;
+	color: #07CA61;
+}
+#content{
+	padding: 0 20px;
+}
+#content .on{
+	height: 99px;
+	line-height: 99px;
+	font-size: 32px;
+	color: #333;
+	border-bottom: 1px solid #dadada;
+}
+#content .on .tt{
+	float: left;
+}
+#content .on .tw{
+	float: right;
+	width: 40px;
+	height: 40px;
+	position: relative;
+}
+#content .tw input:empty{
+	color: #ccc;
+	position: absolute;
+	top: 44px;
+	left: 15px;
+}
+#content .tw input:disabled{
+	border: 1px solid #ccc;
+}
+#content .tw .man{
+	display: inline-block;
+	border: 1px solid #ccc;
+	width: 40px;
+	height: 40px;
+	border-radius: 50%;
+	top: 31px;
+	background: #fff;
+	position: absolute;
+}
+#content .tw input:checked +.man{
+	background: url(../img/yuan.png) no-repeat;
+}
+.bottom{
+	margin-top: 80px;
+	height: 96px;
+	line-height: 96px;
+	text-align: center;
+	border-radius: 5px;
+	font-size: 32px;
+	color: #fff;
+	background: #07CA61;
+}
+

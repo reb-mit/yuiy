@@ -1,0 +1,152 @@
+header{
+	height: 91px;
+	line-height: 91px;
+	text-align: center;
+	font-size: 38px;
+	color: #333;
+	background: url(../img/gte.png) no-repeat 20px 26px;
+	border-bottom:2px solid #07ca61;
+}
+.bom{
+	width: 100%;
+	height: 152px;
+	border-bottom: 20px solid #ebebeb;
+	background: url(../img/touxian.png) no-repeat 20px 19px;
+}
+.bom-left{
+	width: 245px;
+	margin-left: 140px;
+	padding-top: 11px;
+	float: left;
+}
+.bom-left span{
+	display: block;
+}
+.bom .one{
+	font-size: 32.18px;
+	color: #333;
+	height: 48px;
+	line-height: 48px;
+}
+.bom .two{
+	color: #b4b4b4;
+	font-size: 24px;
+	height: 40px;
+	line-height: 40px;
+}
+.bom-left ul{
+	margin-top: 11px;
+}
+.bom-left li{
+	width: 20px;
+	height: 20px;
+	display: inline-block;
+	background: url(../img/xi.png) no-repeat;
+}
+.bom-left li.last{
+	background-image: url(../img/xx.png);
+}
+.bom-right{
+	float: right;
+	width: 80px;
+	height: 80px;
+	margin-right: 18px;
+	margin-top: 26px;
+}
+.bom-right a{
+	width: 80px;
+	height: 80px;
+	display: inline-block;
+	background: url(../img/tel.png) no-repeat;
+}
+#footer{
+	min-width: 375px;
+	max-width: 750px;
+	margin: 0 auto;
+	padding: 0 20px;
+}
+#footer .one{
+	border-bottom:  1px solid #dadada;
+}
+#footer .two{
+	height: 68px;
+	line-height: 68px;
+}
+#footer .threen{
+	height: 88px;
+	line-height: 88px;
+}
+#footer .four{
+	height: 100px;
+	padding-top: 30px;
+}
+#footer .two-f{
+	padding-left: 38px;
+	background: url(../img/time.png) no-repeat 0 21px;
+}
+#footer .one-left{
+	font-size: 24px;
+	color: #969696;
+	float: left;
+}
+#footer .one-right{
+	float: right;
+	font-size: 26px;
+	color: #07CA61;
+}
+#footer .one-bu{
+	font-size: 32px;
+	color: #333333;
+	float: right;
+}
+#footer .four .one-bu{
+	margin-top: 3px;
+}
+#footer .four em{
+	font-style: normal;
+	color: #969696;
+	float: right;
+}
+#footer .list{
+	margin-top: 13px;
+}
+#footer .list li{
+	height: 60px;
+	line-height: 60px;
+}
+#footer .list li em{
+	font-style: normal;
+	color: #f67867;
+}
+#footer .list li .loss{
+	padding-right: 33px;
+	background: url(../img/lt.png) no-repeat right center;
+}
+#footer .list li .loss a{
+	font-size: 32px;
+	color: #333;
+}
+#footer .list li .let{
+	float: left;
+	font-size: 32px;
+	color: #333;
+}
+#footer .list .rig{
+	float: right;
+	font-size: 42px;
+	color: #f32f00;
+}
+.state{
+	width: 100%;
+	height: 93px;
+	padding-top: 24px;
+	text-align: center;
+	margin-top: 37px;
+	background: #f9f9f9;
+}
+.state span{
+	display: block;
+	font-size: 26px;
+	color: #07CA61;
+	line-height: 36px;
+}
